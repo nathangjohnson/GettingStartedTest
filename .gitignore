@@ -29,3 +29,10 @@
 
 # Log files
 *.log
+
+# other
+Makefile
+build/
+docs/
+nbproject/
+.dep.inc
